@@ -2,11 +2,13 @@
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
 
+![hawaii](https://haleakalaecotours.com/wp-content/uploads/2019/04/hawaii-dangerous-waves.jpg)
+
 ## Folders Directory
 - [Output_Data](https://github.com/RH-cmd/sqlalchemy-challenge/tree/main/Output_Data) includes saved graphs/analysis for each question saved by PNG
 - [Resources](https://github.com/RH-cmd/sqlalchemy-challenge/tree/main/Resources) includes all the datasets used for the analysis. 
-- [Climate_starter.ipynb](https://github.com/RH-cmd/sqlalchemy-challenge/blob/main/climate_starter.ipynb) will be the start code for Climate Analysis and data exploration in Part 1.
-- [app.py](https://github.com/RH-cmd/sqlalchemy-challenge/blob/main/app.py) will be the code for Climate App (Flask API) in Part 2.
+- [Climate_starter.ipynb](https://github.com/RH-cmd/sqlalchemy-challenge/blob/main/climate_starter.ipynb) will be the code for Climate Analysis and data exploration in Part 1.
+- [app.py](https://github.com/RH-cmd/sqlalchemy-challenge/blob/main/app.py) will be the code for the Climate App (Flask API) in Part 2.
 
 ## Part 1 - Climate Analysis and Exploration
 Use Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
