@@ -2,7 +2,13 @@
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
 
-## Step 1 - Climate Analysis and Exploration
+## Folders Directory
+- [Output_Data](https://github.com/RH-cmd/sqlalchemy-challenge/tree/main/Output_Data) includes saved graphs/analysis for each question saved by PNG
+- [Resources](https://github.com/RH-cmd/sqlalchemy-challenge/tree/main/Resources) includes all the datasets used for the analysis. 
+- [Climate_starter.ipynb](https://github.com/RH-cmd/sqlalchemy-challenge/blob/main/climate_starter.ipynb) will be the start code for Climate Analysis and data exploration in Part 1.
+- [app.py](https://github.com/RH-cmd/sqlalchemy-challenge/blob/main/app.py) will be the code for Climate App (Flask API) in Part 2.
+
+## Part 1 - Climate Analysis and Exploration
 Use Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
 
@@ -85,7 +91,7 @@ Use Python and SQLAlchemy to do basic climate analysis and data exploration of y
 
 
 
-## Step 2 - Climate App
+## Part 2 - Climate App
 Now that you have completed your initial analysis, design a Flask API based on the queries that you have just developed. 
 
 * Use Flask to create your routes.
